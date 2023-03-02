@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><i>my name is Manu, and I'm developer</i></p>
+<p><i>my name is Manu, and I'm web developer</i></p>
+
+<!--
+<p>
+academic education: IFSP
+</p>
+-->
