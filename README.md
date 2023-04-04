@@ -1,4 +1,4 @@
-### Hi, welcome 👋
+### Hi, I'm Manuela Rocha. Welcome to my profile :)
 
 <!--
 **rochamanuela/rochamanuela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><i>my name is Manu, and I'm web developer</i></p>
+<p>🎓Studying: technology in systems analysis and development | IFSP - Hortolândia</p>
+<p><i>I am trained as a computer technician and currently I am a learning technician in digital solutions</i></p>
 
 <!--
 <p>
