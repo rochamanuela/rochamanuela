@@ -15,8 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>🎓Studying: technology in systems analysis and development | IFSP - Hortolândia<br>
-I am trained as a computer technician and currently I am a learning technician in digital solutions</p>
+<p>
+Studying:
+<br>- Technology in Systems Analysis and Development | IFSP - Hortolândia
+<br>- Technician in Digital Solutions | BOSCH - Campinas<br>
+
+Training:
+<br>Computer Technician | IFSP - Hortolândia 
+</p>
 
 <!--
 <p>
