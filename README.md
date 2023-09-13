@@ -35,3 +35,5 @@ academic education: IFSP
   />
   <img src="https://github-readme-stats.vercel.app/api?username=rochamanuela&show_icons=true" />
 </picture>
+
+[![rochamanuela GitHub stats](https://github-readme-stats.vercel.app/api?username=rochamanuela)](https://github.com/rochamanuela/github-readme-stats)
