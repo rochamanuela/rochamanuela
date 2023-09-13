@@ -26,8 +26,8 @@ academic education: IFSP
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rochamanuela&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: nightowl)"
+    srcset="https://github-readme-stats.vercel.app/api?username=rochamanuela&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: tokyonight)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=rochamanuela&show_icons=true" />
 </picture>
