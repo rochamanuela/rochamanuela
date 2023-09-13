@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <p>
-Studying:
-<br>- Technology in Systems Analysis and Development | IFSP - Hortolândia
-<br>- Technician in Digital Solutions | BOSCH - Campinas<br>
+#Studying
+<br><i>- Technology in Systems Analysis and Development | IFSP - Hortolândia
+<br>- Technician in Digital Solutions | BOSCH - Campinas</i><br>
 
-Training:
-<br>Computer Technician | IFSP - Hortolândia 
+#Training
+<br><i>Computer Technician | IFSP - Hortolândia</i>
 </p>
 
 <!--
