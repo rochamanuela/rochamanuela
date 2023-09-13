@@ -34,4 +34,4 @@ academic education: IFSP
 
 -->
 
-![Manuela's GitHub stats](https://github-readme-stats.vercel.app/api?username=rochamanuela&theme=dark&show_icons=true)
+![Manuela's GitHub stats](https://github-readme-stats.vercel.app/api?username=rochamanuela&theme=tokyonight&show_icons=true)
