@@ -17,7 +17,7 @@
     width="40%" height="100%" />
 
 ### I'm a Front-end Developer and UI/UX Designer at Bosch 
-- 💻I am studying technology in systems analysis and development at IFSP
+- 💻I am studying Technology in Systems Analysis and Develop. at IFSP
 - 🎯Objective: to continuously improve myself in my area of expertise
 - 🩷Interests: growing and improving as a person
 - 🤔Curiosity: eclectic musical taste, ranging from MPB to K-Pop
