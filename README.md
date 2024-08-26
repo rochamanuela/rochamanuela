@@ -29,6 +29,8 @@
             src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="mailto:rochadesouzamanuela@gmail.com"><img
             src="https://img.shields.io/badge/-Gmail-%239E05B6?style=for-the-badge&logo=gmail&logoColor=white"
+            target="_blank"></a> <a href="https://manuela-souza.vercel.app/" target="_blank"><img
+            src="https://img.shields.io/badge/-Porfolio-%235E05B6?style=for-the-badge&logo=m&logoColor=white"
             target="_blank"></a> <a href="https://www.linkedin.com/in/rocha-manuela/" target="_blank"><img
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             target="_blank"></a>
